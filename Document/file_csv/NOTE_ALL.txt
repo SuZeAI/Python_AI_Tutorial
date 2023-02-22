@@ -1,0 +1,10 @@
+remember:
+AI -> Machine learning -> deep learning
++ sklearn: use classification + regression
+Graph:
++ matplotlib.pyplot
++ Seaborn
++ Bokeh
++ Plotly
+Tool:
++ pycaret: chạy các cái cần
